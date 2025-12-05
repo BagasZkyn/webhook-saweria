@@ -27,9 +27,6 @@
       "src": "/api/donations",
       "dest": "/getDonations.js"
     }
-  ],
-  "env": {
-    "WEBHOOK_SECRET": "@webhook_secret",
-    "ROBLOX_UNIVERSE_ID": "@roblox_universe_id"
-  }
+  ]
 }
+
